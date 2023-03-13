@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingsmanvicky&label=Profile%20views&color=0e75b6&style=flat" alt="kingsmanvicky" /> </p>
 
-- 🔭 I’m currently working on **Faby - The Fablab Robot**
+- 🔭 I’m currently working on **Building Up my career**
 
 - 🌱 I’m currently learning **self-driving car, ROS framework**
 
